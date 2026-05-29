@@ -1,20 +1,26 @@
-# CodSoft Task 1 - Rule-Based Chatbot
+# CodSoft Task 1 - Premium Rule-Based Chatbot
 
-## Description
-This project is a simple rule-based chatbot built using Python.  
-It responds to user inputs using if-else conditions and keyword matching.
+## Overview
+CodBot Prime is a premium-looking rule-based chatbot built with Python and Tkinter.  
+It uses keyword matching, if-else logic, and a polished GUI with chat bubbles and dark mode.
 
 ## Features
-- Greeting responses
-- Name recognition
-- Current time and date
-- Help command
-- Goodbye message
-- Default fallback response
+- Chat bubble interface
+- Dark/light mode toggle
+- Name memory
+- Time, date, and day
+- Jokes, quotes, fun facts, riddles
+- Compliments and random surprise responses
+- Safe calculator
+- Clear chat
+- Save chat transcript
+- Keyboard shortcuts
 
-## Requirements
-- Python 3
+## Tech Stack
+- Python
+- Tkinter
+- Standard library only
 
-## How to Run
+## Run
 ```bash
-python chatbot.py
+python premium_chatbot.py
