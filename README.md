@@ -23,4 +23,4 @@ It uses keyword matching, if-else logic, and a polished GUI with chat bubbles an
 
 ## Run
 ```bash
-python premium_chatbot.py
+python chatbot.py
